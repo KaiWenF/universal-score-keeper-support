@@ -1,7 +1,3 @@
-
-
-
-
 # Universal Score Keeper Support
 
 Thank you for using Universal Score Keeper! This app is designed to help you track scores for a variety of games and activities. Below you'll find information on how to get support and answers to common questions.
@@ -37,6 +33,3 @@ If you encounter any issues or have questions not covered here, please reach out
 - **Website:** [Universal Score Keeper Support](https://www.universalscorekeeper.com/support)
 
 We appreciate your feedback and are committed to improving your experience with Universal Score Keeper.
-
-
-

@@ -1,7 +1,4 @@
 
-
-
-
 # Privacy Policy for Universal Score Keeper
 
 Effective Date: [Insert Date]
@@ -41,5 +38,3 @@ If you have any questions or suggestions about our Privacy Policy, do not hesita
 - **Email:** privacy@universalscorekeeper.com
 
 Thank you for using Universal Score Keeper!
-
-
