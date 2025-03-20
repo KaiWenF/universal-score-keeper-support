@@ -1,6 +1,7 @@
 
 
 
+
 # Privacy Policy for Universal Score Keeper
 
 Effective Date: [Insert Date]
