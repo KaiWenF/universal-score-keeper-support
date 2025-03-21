@@ -28,8 +28,7 @@ Thank you for using Universal Score Keeper! This app is designed to help you tra
 
 If you encounter any issues or have questions not covered here, please reach out to us:
 
-- **Email:** support@universalscorekeeper.com
-- **Phone:** +1 (555) 123-4567
-- **Website:** [Universal Score Keeper Support](https://www.universalscorekeeper.com/support)
+- **Email:** support@kaiwendesigns.com
+- **Website:** [Universal Score Keeper Support](https://kaiwenf.github.io/universal-score-keeper-support/support.md)
 
 We appreciate your feedback and are committed to improving your experience with Universal Score Keeper.

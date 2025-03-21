@@ -1,7 +1,7 @@
 
 # Privacy Policy for Universal Score Keeper
 
-Effective Date: [Insert Date]
+Effective Date: 03/20/2025
 
 ## Introduction
 
@@ -35,6 +35,6 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
 
-- **Email:** privacy@universalscorekeeper.com
+- **Email:** privacy@kaiwendesigns.com
 
 Thank you for using Universal Score Keeper!
